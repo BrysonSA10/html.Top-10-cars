@@ -1,0 +1,35 @@
+
+#h1{
+    background-color: rgb(0, 102, 255);
+    color: aliceblue;
+}
+
+#h21{
+    color: rgb(21, 7, 105);
+}
+
+#h22{
+    background-color: rgb(0, 102, 255);
+    color: white;
+}
+
+#eng{
+    margin: 400px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+html{
+    background-color: rgba(245, 245, 245, 0.719);
+}
+
+#int{
+    background-color: rgb(0, 102, 255);
+    color: aliceblue;
+}
+
+#intt{
+    margin:400px;
+    margin-top: 0pt;
+    margin-bottom: 0px;
+}

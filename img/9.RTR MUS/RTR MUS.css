@@ -1,0 +1,53 @@
+h1{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    background-color: rgb(92, 92, 88);
+    color: rgb(145, 255, 0);
+}
+
+html{
+    background-color: rgb(134, 131, 128);
+}
+
+#h2r{
+    color: rgb(145, 255, 0);
+}
+
+#eng{
+    color: rgb(145, 255, 0);
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    background-color: rgb(92, 92, 88);
+
+}
+
+#eng2{
+    width: 800px;
+    margin: 600px;
+    margin-top: 0ch;
+    margin-bottom: 0ch;
+}
+
+#eng3{
+    color: rgb(145, 255, 0);
+    font-weight: bold;
+}
+
+#int1{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    background-color: rgb(92, 92, 88);
+    color: rgb(145, 255, 0);
+}
+
+#int2{
+    width: 800px;
+    margin: 600px;
+    margin-top: 0ch;
+    margin-bottom: 0ch;
+}
+
+#int3{
+    color: rgb(145, 255, 0);
+    font-weight: bold;
+}

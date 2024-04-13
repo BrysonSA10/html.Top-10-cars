@@ -1,0 +1,50 @@
+html{
+    background-color: red;
+}
+
+h1{
+    background-color: rgb(192, 2, 2);
+    font-family: "Comforter Brush", cursive;
+    font-size: 30px;
+}
+
+#inf{
+    font-family: "Sen", sans-serif;
+    font-weight: 400;
+}
+
+#eng1{
+    background-color: rgb(192, 2, 2);
+    font-family: "Comforter Brush", cursive;
+    font-size: 30px;
+}
+
+#eng2{
+    width: 40%;
+    margin: 500px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#eng3{
+    font-family: "Sen", sans-serif;
+    font-weight: 400;
+}
+
+#int1{
+    background-color: rgb(192, 2, 2);
+    font-family: "Comforter Brush", cursive;
+    font-size: 30px;
+}
+
+#int2{
+    width: 40%;
+    margin: 500px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#int3{
+    font-family: "Sen", sans-serif;
+    font-weight: 400;
+}

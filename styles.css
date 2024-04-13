@@ -1,0 +1,158 @@
+html{
+    background-color: rgb(59, 59, 59);
+}
+
+h1{
+    font-family: "Rubik Scribble", system-ui;
+    color: rgb(54, 240, 47);
+}
+
+#h10{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 102, 255);
+    display: block;
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;      
+}
+
+#n15{
+    margin: 600px;
+    margin-top: 0px;
+    background: none;
+    margin-bottom: 0ch;
+}
+
+#h9{
+    background-color: rgb(110, 104, 96);
+    display: block;
+    color: rgb(125, 247, 10);
+    font-family: "Pacifico", cursive;
+    font-weight: 300;
+}
+
+#n14{
+    width: 800px;
+    margin: 600px;
+    margin-top: 0px;
+    margin-bottom: 0cm;
+}
+
+#h8{
+    background-color: yellow;
+    display: block;
+    color:  green;
+    font-family: "Arvo", serif;
+    font-weight: 400;
+}
+
+#n13{
+    width: 700px;
+    margin: 600px;
+    margin-top: 0cm;
+    margin-bottom: 0cm;
+}
+
+#h7{
+    font-family: "Red Hat Display", sans-serif;
+    font-weight: 400;
+    background-color: rgb(76, 76, 77);
+    display: block;
+    color: antiquewhite;
+}
+
+#n12{
+    margin: 600px;
+    margin-top: 0cm;
+    width: 700px;
+    margin-bottom: 0%;
+}
+
+#h6{
+    font-family: "Cinzel", serif;
+    background-color: rgb(255, 230, 0);
+    display: block;
+    color: rgb(0, 0, 0);
+}
+
+#n11{
+    width: 700px;
+    margin: 600px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#h5{
+    background-color: rgb(167, 218, 207);
+    display: block;
+    color: rgb(253, 144, 1);
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+}
+
+#n10{
+    margin: 600px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    width: 40%;
+}
+
+#h4{
+    background-color: rgb(39, 39, 39);
+    display: block;
+    color: rgb(255, 0, 0);
+    font-family: "Orbitron", sans-serif;
+    font-weight: 400;
+}
+
+#n9{
+    margin: 600px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    height: 5%;
+    width: 40%;
+}
+
+#h3{
+    background-color: rgb(124, 3, 3);
+    display: block;
+    color: aliceblue;
+    font-family: "Josefin Slab", serif;
+    font-weight: 400;
+}
+
+#n8{
+    width: 40%;
+    margin: 600px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+
+#h2{
+    background-color: red;
+    display: block;
+    color: black;
+    font-family: "Comforter Brush", cursive;
+    font-weight: 800;
+}
+
+#n7{
+    width: 40%;
+    margin: 600px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#h1{
+    background-color: white;
+    display: block;
+    font-family: "Comfortaa", sans-serif;
+    color: black;
+}
+
+#n6{
+    width: 700px;
+    margin: 600px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}

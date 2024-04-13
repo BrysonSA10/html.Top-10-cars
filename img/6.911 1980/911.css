@@ -1,0 +1,56 @@
+html{
+    background-color: rgb(230, 172, 12);
+}
+
+h1{
+    background-color: black;
+    color: rgb(230, 172, 12);
+    font-family: "Cinzel", serif;
+}
+
+#h21{
+    font-family: "Cinzel", serif;
+    font-weight: 500;
+}
+
+hr{
+    background-color: rgb(3, 0, 0);
+    height: 2px;
+    border: 0ch;
+}
+
+#eng1{
+    background-color: black;
+    color: rgb(230, 172, 12);
+    font-family: "Cinzel", serif;
+}
+
+#eng2{
+    margin: 600px;
+    margin-top: 0ch;
+    margin-bottom: 0cap;
+    width: 40%;
+}
+
+#eng3{
+    font-family: "Cinzel", serif;
+    font-weight: 500;
+}
+
+#int1{
+    background-color: black;
+    color: rgb(230, 172, 12);
+    font-family: "Cinzel", serif;
+}
+
+#int2{
+    margin: 600px;
+    margin-top: 0%;
+    width: 40%;
+    margin-bottom: 0%;
+}
+
+#int3{
+    font-family: "Cinzel", serif;
+    font-weight: 500;
+}

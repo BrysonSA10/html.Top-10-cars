@@ -1,0 +1,50 @@
+html{
+    background-color: rgb(5, 83, 3);
+}
+
+#h1{
+    background-color: rgb(8, 54, 7);
+    color: yellow;
+    font-family: "Arvo", serif;
+    font-weight: 400;
+}
+
+#inf{
+    color: yellow;
+}
+
+#eng1{
+    color: yellow;
+    background-color: rgb(8, 54, 7);
+    font-family: "Arvo", serif;
+    font-weight: 400;
+}
+
+#eng2{
+    width: 800px;
+    margin: 500px;
+    margin-top: 0cap;
+    margin-bottom: 0cqb;
+}
+
+#eng3{
+    color: yellow;
+}
+
+#int1{
+    color: yellow;
+    background-color: rgb(8, 54, 7);
+    font-family: "Arvo", serif;
+    font-weight: 400;
+}
+
+#int2{
+    width: 800px;
+    margin: 500px;
+    margin-top: 0cm;
+    margin-bottom: 0cm;
+}
+
+#int3{
+    color: yellow;
+}

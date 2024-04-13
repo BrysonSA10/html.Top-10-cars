@@ -1,0 +1,60 @@
+html{
+    background-color: rgb(107, 26, 26);
+}
+
+h1{
+    background-color: rgb(133, 17, 17);
+    font-family: "Josefin Slab", serif;
+    font-weight: 700;
+    color: white;
+}
+
+#inf{
+    font-family: "Josefin Slab", serif;
+    font-weight: 400;
+    color: white;
+}
+
+hr{
+    background-color: rgb(97, 15, 12);
+    height: 3px;
+    border: 0ch;
+}
+
+#eng1{
+    background-color: rgb(133, 17, 17);
+    font-family: "Josefin Slab", serif;
+    font-weight: 700;
+    color: white;
+}
+
+#eng2{
+    margin: 700px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#eng3{
+    font-family: "Josefin Slab", serif;
+    font-weight: 400;
+    color: white;
+}
+
+#int1{
+    background-color: rgb(133, 17, 17);
+    font-family: "Josefin Slab", serif;
+    font-weight: 700;
+    color: white;
+}
+
+#int2{
+    margin: 700px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#int3{
+    font-family: "Josefin Slab", serif;
+    font-weight: 400;
+    color: white;
+}

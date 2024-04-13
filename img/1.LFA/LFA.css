@@ -1,0 +1,44 @@
+h1{
+    font-family: "Comfortaa", sans-serif;
+    background-color: rgb(197, 194, 194);
+    font-weight: 800;
+}
+
+#inf{
+    font-family: "Comfortaa", sans-serif;
+    font-weight: 400;
+}
+
+#eng1{
+    font-family: "Comfortaa", sans-serif;
+    background-color: rgb(197, 194, 194);
+    font-weight: 800;
+}
+
+#eng2{
+    margin: 600px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#eng3{
+    font-family: "Comfortaa", sans-serif;
+    font-weight: 400;
+}
+
+#int1{
+    font-family: "Comfortaa", sans-serif;
+    background-color: rgb(197, 194, 194);
+    font-weight: 800;
+}
+
+#int2{
+    margin: 450px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#int3{
+    font-family: "Comfortaa", sans-serif;
+    font-weight: 400;
+}

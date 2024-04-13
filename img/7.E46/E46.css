@@ -1,0 +1,57 @@
+html{
+    background-color: rgb(81, 80, 82);
+}
+
+h1{
+    font-family: "Red Hat Display", sans-serif;
+    font-weight: 400;
+    color: white;
+    background-color: rgb(59, 59, 59);
+}
+
+#h21{
+    color: white;
+    font-family: "Red Hat Display", sans-serif;
+    font-weight: 400;
+}
+
+#eng1{
+    font-family: "Red Hat Display", sans-serif;
+    color: white;
+    font-weight: 400;
+    background-color: rgb(59, 59, 59);
+}
+
+#eng2{
+    margin: 600px;
+    margin-top: 0cap;
+    width: 800px;
+    margin-bottom: 0ch;
+}
+
+#eng3{
+    font-family: "Red Hat Display", sans-serif;
+    color: white;
+    font-weight: 400;
+}
+
+#int1{
+    font-family: "Red Hat Display", sans-serif;
+    color: white;
+    font-weight: 400;
+    background-color: rgb(59, 59, 59);
+}
+
+#int2{
+    margin: 600px;
+    margin-top: 0%;
+    margin-bottom: 0cm;
+    width: 700px;
+    height: 500px;
+}
+
+#int3{
+    font-family: "Red Hat Display", sans-serif;
+    color: white;
+    font-weight: 400;
+}
